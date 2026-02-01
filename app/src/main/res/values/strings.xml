@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">oving3VennApp</string>
+    <string name="slett_btn">Slett</string>
+    <string name="rediger_btn">Rediger</string>
+    <string name="fodselsdato_btn">Fødselsdato</string>
+    <string name="navn_btn">Navn</string>
+</resources>
